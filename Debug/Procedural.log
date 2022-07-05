@@ -1,9 +1,0 @@
-﻿  Procedural.cpp
-C:\Users\Ismail\Visual_Dir\Assignment\Procedural\Procedural.cpp(63,16): warning C4101: 'e': unreferenced local variable
-C:\Users\Ismail\Visual_Dir\Assignment\Procedural\Procedural.cpp(68,19): warning C4101: 'x': unreferenced local variable
-C:\Users\Ismail\Visual_Dir\Assignment\Procedural\Procedural.cpp(129,16): warning C4101: 'e': unreferenced local variable
-C:\Users\Ismail\Visual_Dir\Assignment\Procedural\Procedural.cpp(133,19): warning C4101: 'x': unreferenced local variable
-C:\Users\Ismail\Visual_Dir\Assignment\Procedural\Procedural.cpp(235,16): warning C4101: 'e': unreferenced local variable
-C:\Users\Ismail\Visual_Dir\Assignment\Procedural\Procedural.cpp(239,19): warning C4101: 'x': unreferenced local variable
-C:\Users\Ismail\Visual_Dir\Assignment\Procedural\Procedural.cpp(162): warning C4715: 'Rounds': not all control paths return a value
-  Procedural.vcxproj -> C:\Users\Ismail\Visual_Dir\Assignment\Procedural\Debug\Procedural.exe
